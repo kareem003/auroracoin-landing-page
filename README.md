@@ -13,7 +13,7 @@ AuroraCoin is a fictional cryptocurrency. This landing page highlights its featu
 ### **How to View/Edit**
 1. Clone the repository or download the files.
 2. Open `index.html` in a browser to view the site.
-3. Modify the HTML, Tailwind CSS, or Bootstrap files for customization.
+3. Modify the HTML file for customization.
 
 ---
 
