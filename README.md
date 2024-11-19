@@ -8,7 +8,7 @@ AuroraCoin is a fictional cryptocurrency. This landing page highlights its featu
 - **Tailwind CSS**: Hero section, features, footer.
 
 ### **Live Link**
-[Visit the Landing Page](https://example-link.netlify.app)
+[Visit the Landing Page](https://auroracoin-landing-page.vercel.app/)
 
 ### **How to View/Edit**
 1. Clone the repository or download the files.
